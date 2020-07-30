@@ -11,8 +11,9 @@ public class HitCollision : MonoBehaviour
     {   // check using tags instead of name for easy checking a group objects under 1 tag, name is individual
         if (collisionInfo.collider.tag == ("Obstacle")) 
         {
-            Debug.Log("Hit " + collisionInfo.collider.name);
+//            Debug.Log("Hit " + collisionInfo.collider.name);
             movement.enabled = false; // disable our player movement script if object is hit
+            FindObjectOfType<Game_Manager>().EndGame();
         }
     }
 
