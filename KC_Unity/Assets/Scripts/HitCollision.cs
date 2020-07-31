@@ -13,7 +13,7 @@ public class HitCollision : MonoBehaviour
         {
 //            Debug.Log("Hit " + collisionInfo.collider.name);
             movement.enabled = false; // disable our player movement script if object is hit
-            FindObjectOfType<Game_Manager>().EndGame();
+            FindObjectOfType<GameManager>().EndGame();
         }
     }
 

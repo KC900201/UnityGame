@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody rb;
     public float forwardForce = 200f;
     public float dirForce = 500f;
+    public float fallingVal = -1f;
 
     // Start is called before the first frame update
     // Function is called for initialization
@@ -43,9 +44,9 @@ public class PlayerMovement : MonoBehaviour
             rb.AddForce(-dirForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
 
-        if(rb.position.y < -1f)
+        if(rb.position.y <= fallingVal)
         {
-            FindObjectOfType<Game_Manager>().EndGame();
+            FindObjectOfType<GameManager>().EndGame();
         }
 
     }
