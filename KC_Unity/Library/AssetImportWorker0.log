@@ -1,0 +1,897 @@
+[Licensing::Module] Successfully connected to LicensingClient on channel: LicenseClient-KwongCheongNg
+Entitlement-based licensing initiated
+[LicensingClient] Licenses Updated successfully in LicensingClient
+
+LICENSE SYSTEM [202083 11:42:47] Next license update check is after 2020-08-04T00:38:00
+
+Built from '2019.4/staging' branch; Version is '2019.4.2f1 (20b4642a3455) revision 2143332'; Using compiler version '191627012'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 20399 MB
+[Licensing::Module] Serial number assigned to: "F4-FP8S-PFRU-RW7K-QCNJ-XXXX"\nBatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2019.4.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Documents/Projects/UnityGame/KC_Unity
+-logFile
+Library/AssetImportWorker0.log
+-srvPort
+59656
+Successfully changed project path to: C:/Users/user/Documents/Projects/UnityGame/KC_Unity
+C:/Users/user/Documents/Projects/UnityGame/KC_Unity
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 16.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2019.4.2f1 (20b4642a3455)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Documents/Projects/UnityGame/KC_Unity/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     1979 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Registered in 0.003295 seconds.
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 15.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.992 seconds
+Registering precompiled user dll's ...
+Registered in 0.072093 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 16.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.7 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1490.
+Total: 2.222400 ms (FindLiveObjects: 0.665500 ms CreateObjectMapping: 0.119500 ms MarkObjects: 1.333600 ms  DeleteObjects: 0.102900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/HitCollision.cs
+  artifactKey: Guid(c40a935d258be614a866306f39ad5326) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/HitCollision.cs using Guid(c40a935d258be614a866306f39ad5326) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/027a7363aa468b44cbdfb3cf646b9461.asset.1.index for Assets/Scripts/HitCollision.cs with Types
+Done importing asset: 'Assets/Scripts/HitCollision.cs' (target hash: '3f102841b9ac4a50eaca0d6704373a6e') in 0.091255 seconds
+  Import took 0.093952 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Material/ObsMat.mat
+  artifactKey: Guid(f920aa1e611f31d4e8c9e4c9290c112f) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Material/ObsMat.mat using Guid(f920aa1e611f31d4e8c9e4c9290c112f) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/0eef9d3bef157ce41a748be32b24ca5b.asset.1.index for Assets/Material/ObsMat.mat with Types
+Done importing asset: 'Assets/Material/ObsMat.mat' (target hash: 'c636e318894ab90019a8553f6e83186e') in 0.017470 seconds
+  Import took 0.019661 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Fonts/Roboto-Italic.ttf
+  artifactKey: Guid(f1f5fab30d7562644806de0cb3f02035) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Italic.ttf using Guid(f1f5fab30d7562644806de0cb3f02035) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/25bc1b4cdc748194c8b2e651c31fdf5a.asset.1.index for Assets/Fonts/Roboto-Italic.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Italic.ttf' (target hash: 'ef1d8f5e6fc8aadaf63a9fde1063ef2c') in 0.015064 seconds
+  Import took 0.017404 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Animation/LevelComplete.controller
+  artifactKey: Guid(2570b00f0717c9f418a32ccc0e7a89d7) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Animation/LevelComplete.controller using Guid(2570b00f0717c9f418a32ccc0e7a89d7) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/cbbad652da9a0d7458bcdbcba2cf4f4c.asset.1.index for Assets/Animation/LevelComplete.controller with Types
+Done importing asset: 'Assets/Animation/LevelComplete.controller' (target hash: '5e218c2b561ba13bdda6131c595204b5') in 0.009232 seconds
+  Import took 0.012138 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(db8b3a4ef28a4c748aa0e6d552769638) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(db8b3a4ef28a4c748aa0e6d552769638) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/ffe681a667aa66b4a802398e2bec86cf.asset.1.index for Assets/Scripts/PlayerMovement.cs with Types
+Done importing asset: 'Assets/Scripts/PlayerMovement.cs' (target hash: '5048c75d80e19d0b1535496cc5063e1d') in 0.006104 seconds
+  Import took 0.008243 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Fonts/Roboto-Bold.ttf
+  artifactKey: Guid(5e8f71bead207384e81c1c8f50660661) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Bold.ttf using Guid(5e8f71bead207384e81c1c8f50660661) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/286eae8d32b59aa42a446d425c114919.asset.1.index for Assets/Fonts/Roboto-Bold.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Bold.ttf' (target hash: '1046d76c0aaa561fcd90ba4fff686d03') in 0.005570 seconds
+  Import took 0.007705 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Fonts/Roboto-Light.ttf
+  artifactKey: Guid(df91320f0f9985e46b4a3b2197ae106d) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Light.ttf using Guid(df91320f0f9985e46b4a3b2197ae106d) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/ffb4f644987df6640955e5874ba2f929.asset.1.index for Assets/Fonts/Roboto-Light.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Light.ttf' (target hash: 'd5bdf9bfc92bcb74dc0200975b776fe4') in 0.006420 seconds
+  Import took 0.008701 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Material/GroundMat.mat
+  artifactKey: Guid(4a32615943599e04d8abecf52eb59fa7) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Material/GroundMat.mat using Guid(4a32615943599e04d8abecf52eb59fa7) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/6b5c671bd2e46114bbe316c10f012784.asset.1.index for Assets/Material/GroundMat.mat with Types
+Done importing asset: 'Assets/Material/GroundMat.mat' (target hash: '3eb16d8c248673a1e446df97703739bd') in 0.006000 seconds
+  Import took 0.008213 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Fonts/Roboto-BoldItalic.ttf
+  artifactKey: Guid(a5681eb58a34c5c4b98e0d62c3aeb739) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-BoldItalic.ttf using Guid(a5681eb58a34c5c4b98e0d62c3aeb739) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/9b38ff2f50ea3b242a83ae77eda230a8.asset.1.index for Assets/Fonts/Roboto-BoldItalic.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-BoldItalic.ttf' (target hash: 'b619bd3e58586dc7bdb8249b0a95a637') in 0.005679 seconds
+  Import took 0.008274 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Scripts/Score.cs
+  artifactKey: Guid(d42ddc02bf28f8847a7033f28ba5fbf3) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/Score.cs using Guid(d42ddc02bf28f8847a7033f28ba5fbf3) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/18cb0e149bbba83499d4576822a98ee0.asset.1.index for Assets/Scripts/Score.cs with Types
+Done importing asset: 'Assets/Scripts/Score.cs' (target hash: '1f32a46fe9c766ed7eb8c15b4130f4f6') in 0.006252 seconds
+  Import took 0.008573 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Fonts/Roboto-LightItalic.ttf
+  artifactKey: Guid(d02ce11f1120fb341aee56365d874516) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-LightItalic.ttf using Guid(d02ce11f1120fb341aee56365d874516) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/aac4a5e1d9c19a144be1e669d76cdf1a.asset.1.index for Assets/Fonts/Roboto-LightItalic.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-LightItalic.ttf' (target hash: '8a14fec503046959274c3fd93fc32b6b') in 0.005854 seconds
+  Import took 0.008084 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Fonts/Roboto-Medium.ttf
+  artifactKey: Guid(3cfa6032fe5f5cf47aba75cc4320d759) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Medium.ttf using Guid(3cfa6032fe5f5cf47aba75cc4320d759) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/db7c6ca2d57f95b42ab0572f45b25962.asset.1.index for Assets/Fonts/Roboto-Medium.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Medium.ttf' (target hash: 'c6975eed541d968697d8e063406f8440') in 0.005264 seconds
+  Import took 0.007405 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Fonts/Roboto-MediumItalic.ttf
+  artifactKey: Guid(3a1b740b45314314fb6e62c630c6c813) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-MediumItalic.ttf using Guid(3a1b740b45314314fb6e62c630c6c813) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/5bfc4534170c95e409d3965a748ce06d.asset.1.index for Assets/Fonts/Roboto-MediumItalic.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-MediumItalic.ttf' (target hash: '3c9aafd300e2746e0f127d938fde81b3') in 0.006768 seconds
+  Import took 0.008917 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Scenes/Level02.unity
+  artifactKey: Guid(e5d2225114cc30943b7cc31cfc7d3dd3) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level02.unity using Guid(e5d2225114cc30943b7cc31cfc7d3dd3) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/ba906498ec2f79341b07b3989ebceb06.asset.1.index for Assets/Scenes/Level02.unity with Types
+Done importing asset: 'Assets/Scenes/Level02.unity' (target hash: '3defab985a013897b9931430ad49c439') in 0.005640 seconds
+  Import took 0.008112 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Level01/ReflectionProbe-0.exr
+  artifactKey: Guid(2a9c47a499b59d0489fae347caed37f4) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Level01/ReflectionProbe-0.exr using Guid(2a9c47a499b59d0489fae347caed37f4) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/ca5761c17a5f7f24f9316a6df1369ba3.asset.1.index for Assets/Level01/ReflectionProbe-0.exr with Types
+Done importing asset: 'Assets/Level01/ReflectionProbe-0.exr' (target hash: '06df4954c3f32f6e713e5bd309297b03') in 0.007821 seconds
+  Import took 0.009996 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Animation/LevelComplete.anim
+  artifactKey: Guid(285b9bf94ed338140b48a90dfdbe82bb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Animation/LevelComplete.anim using Guid(285b9bf94ed338140b48a90dfdbe82bb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/0b0b25432c9d103418ffcba463d490dd.asset.1.index for Assets/Animation/LevelComplete.anim with Types
+Done importing asset: 'Assets/Animation/LevelComplete.anim' (target hash: 'ba481f996e018439157fc1da8ac16d90') in 0.009758 seconds
+  Import took 0.011888 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Fonts/Roboto-ThinItalic.ttf
+  artifactKey: Guid(a17f4263540f70a4fa87f8261f50009c) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-ThinItalic.ttf using Guid(a17f4263540f70a4fa87f8261f50009c) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/c23e4c945fc052643a17fe824bc826a9.asset.1.index for Assets/Fonts/Roboto-ThinItalic.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-ThinItalic.ttf' (target hash: '8bb979ca1c4aa1ef7e72aae2eac221cd') in 0.006079 seconds
+  Import took 0.008374 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Fonts/Roboto-Black.ttf
+  artifactKey: Guid(625733a35284d104c82cf68fd084dad0) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Black.ttf using Guid(625733a35284d104c82cf68fd084dad0) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/206be98fb35a29547b6987876fcf8a40.asset.1.index for Assets/Fonts/Roboto-Black.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Black.ttf' (target hash: '49cd746b24489ac715611a8b443aef67') in 0.005580 seconds
+  Import took 0.007714 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Material/PlayerMat.mat
+  artifactKey: Guid(8d1e32cf01de0a842b47f087ddc3bb1b) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Material/PlayerMat.mat using Guid(8d1e32cf01de0a842b47f087ddc3bb1b) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/505314f7005eb4a4ead46426a06ed696.asset.1.index for Assets/Material/PlayerMat.mat with Types
+Done importing asset: 'Assets/Material/PlayerMat.mat' (target hash: '66803e3d0abe7eecb9ab6ad66e94302d') in 0.007005 seconds
+  Import took 0.009321 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Level01/LightingData.asset
+  artifactKey: Guid(b16d78f703189634a8c92629f89e1519) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Level01/LightingData.asset using Guid(b16d78f703189634a8c92629f89e1519) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/315e88171c9d3b546bfa044067d6b6a3.asset.1.index for Assets/Level01/LightingData.asset with Types
+Done importing asset: 'Assets/Level01/LightingData.asset' (target hash: 'a331d66ef51f535fe43fa6677f86a976') in 0.007181 seconds
+  Import took 0.009580 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Fonts/Roboto-BlackItalic.ttf
+  artifactKey: Guid(72b19f02ff4a49647ad8e56de2fba01f) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-BlackItalic.ttf using Guid(72b19f02ff4a49647ad8e56de2fba01f) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/c5b6271bc29d4984dbb74e22d8a4e40a.asset.1.index for Assets/Fonts/Roboto-BlackItalic.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-BlackItalic.ttf' (target hash: '67b41581c136886b16c32dde365c33d8') in 0.005952 seconds
+  Import took 0.008144 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/861c92c41927a97488e07d676e60f971.asset.1.index for Assets/Scenes/SampleScene.unity with Types
+Done importing asset: 'Assets/Scenes/SampleScene.unity' (target hash: 'c75511e98c7601e910bd6c77605d6ce8') in 0.006753 seconds
+  Import took 0.008940 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Scripts/EndTrigger.cs
+  artifactKey: Guid(77b85729143361a448280afaee8750e4) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/EndTrigger.cs using Guid(77b85729143361a448280afaee8750e4) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/e6fd5d9c789afc24e886399422877442.asset.1.index for Assets/Scripts/EndTrigger.cs with Types
+Done importing asset: 'Assets/Scripts/EndTrigger.cs' (target hash: 'c71746fbf0cb3c13313f9de717b153e1') in 0.005596 seconds
+  Import took 0.007770 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(aa60b2efa5ea67a44ad7ce5690ef9c67) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/GameManager.cs using Guid(aa60b2efa5ea67a44ad7ce5690ef9c67) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/41e1ed683e5e5ab45897a4eefc6f1d9a.asset.1.index for Assets/Scripts/GameManager.cs with Types
+Done importing asset: 'Assets/Scripts/GameManager.cs' (target hash: '3e67d5cd5860497c0e0a3561167382d7') in 0.006125 seconds
+  Import took 0.008318 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Scenes/Level01.unity
+  artifactKey: Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level01.unity using Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/26d5d92de2929a04abac5b4bbf913e61.asset.1.index for Assets/Scenes/Level01.unity with Types
+Done importing asset: 'Assets/Scenes/Level01.unity' (target hash: '9f97148d8d7bb43cba21f7bf6e0631c2') in 0.006103 seconds
+  Import took 0.008273 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Fonts/Roboto-Regular.ttf
+  artifactKey: Guid(3f0086afd68a13047ba8a00067d397ed) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Regular.ttf using Guid(3f0086afd68a13047ba8a00067d397ed) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/e7837f15974f53040b38ab2867f41a68.asset.1.index for Assets/Fonts/Roboto-Regular.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Regular.ttf' (target hash: 'd783eba568b9c17cf97f65067c3cfc0b') in 0.005411 seconds
+  Import took 0.007563 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/PlayerPhys.physicMaterial
+  artifactKey: Guid(7d26e38733efc18429e9d06884a87efb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/PlayerPhys.physicMaterial using Guid(7d26e38733efc18429e9d06884a87efb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/7ca4e59329770474dac893388e20dc96.asset.1.index for Assets/PlayerPhys.physicMaterial with Types
+Done importing asset: 'Assets/PlayerPhys.physicMaterial' (target hash: 'a8d40453519ec626ecf1594bdfe7289a') in 0.007258 seconds
+  Import took 0.009416 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Scripts/LevelComplete.cs
+  artifactKey: Guid(653e2b39724eef045a173cac8f9f578d) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/LevelComplete.cs using Guid(653e2b39724eef045a173cac8f9f578d) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/4885e87e03e092443b869308cc108476.asset.1.index for Assets/Scripts/LevelComplete.cs with Types
+Done importing asset: 'Assets/Scripts/LevelComplete.cs' (target hash: 'f17da731cb0649bf4a62dc86130f6974') in 0.006714 seconds
+  Import took 0.008857 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Scripts/FollowPlayer.cs
+  artifactKey: Guid(50b1a614ff0f441439e7c8c5280e2550) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scripts/FollowPlayer.cs using Guid(50b1a614ff0f441439e7c8c5280e2550) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/4aacab24619cc7d4e94a3e5851bc8487.asset.1.index for Assets/Scripts/FollowPlayer.cs with Types
+Done importing asset: 'Assets/Scripts/FollowPlayer.cs' (target hash: '566062b52c75f89fd2a008345380c39a') in 0.005878 seconds
+  Import took 0.007988 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Fonts/Roboto-Thin.ttf
+  artifactKey: Guid(3d242c83b8a26c44b82da75602de886d) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Fonts/Roboto-Thin.ttf using Guid(3d242c83b8a26c44b82da75602de886d) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/4663e92ca54f312469b9edc65c74d0a0.asset.1.index for Assets/Fonts/Roboto-Thin.ttf with Types
+Done importing asset: 'Assets/Fonts/Roboto-Thin.ttf' (target hash: '9dff45331ddf09d33d76ab7d1304fa8a') in 0.005546 seconds
+  Import took 0.007695 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.403682 seconds.
+  path: Assets/Obstacle (12).prefab
+  artifactKey: Guid(8d5de091b68dc644998235f4a1bbf9bf) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (12).prefab using Guid(8d5de091b68dc644998235f4a1bbf9bf) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/3c563b2c8f253b54aae35de94e9d9768.asset.1.index for Assets/Obstacle (12).prefab with Types
+Done importing asset: 'Assets/Obstacle (12).prefab' (target hash: '65df2986bcedae6b980d4384e219838b') in 0.010014 seconds
+  Import took 0.012729 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.120117 seconds.
+  path: Assets/GameManager.prefab
+  artifactKey: Guid(72fba3513b77aa74aac6c329f9897f51) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/GameManager.prefab using Guid(72fba3513b77aa74aac6c329f9897f51) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/be7ab1229c8c33f44aea2b94338ed27c.asset.1.index for Assets/GameManager.prefab with Types
+Done importing asset: 'Assets/GameManager.prefab' (target hash: '3ba4f1613d530a9c8d96922514e6589b') in 0.005458 seconds
+  Import took 0.007991 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.611947 seconds.
+  path: Assets/End.prefab
+  artifactKey: Guid(691cfcf370cbc6c49b67c53c06657243) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.prefab using Guid(691cfcf370cbc6c49b67c53c06657243) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f2d08e24d2446b946b4e52272f381594.asset.1.index for Assets/End.prefab with Types
+Done importing asset: 'Assets/End.prefab' (target hash: '8d98aa81a1eb398b405d17e1ff3b08b3') in 0.006375 seconds
+  Import took 0.008966 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.539535 seconds.
+  path: Assets/Main Camera.prefab
+  artifactKey: Guid(164f5f30496843446912a98eb49d8cf4) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Main Camera.prefab using Guid(164f5f30496843446912a98eb49d8cf4) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/761a4f0c74d78c441afdf9d61b289670.asset.1.index for Assets/Main Camera.prefab with Types
+Done importing asset: 'Assets/Main Camera.prefab' (target hash: '2284716ba12e80403fea81163bc6f9d4') in 0.007952 seconds
+  Import took 0.010902 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.474075 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(e1a0e095e13fd404c8645112201245e0) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs using Guid(e1a0e095e13fd404c8645112201245e0) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/e6a819593d0b87a498baf3c3a7e45a06.asset.1.index for Assets/Prefabs with Types
+Done importing asset: 'Assets/Prefabs' (target hash: '1959c16fcd2316454656158e2b6db97d') in 0.006045 seconds
+  Import took 0.008655 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.981524 seconds.
+  path: Assets/Player.prefab
+  artifactKey: Guid(01ad0390a9fad6f42860d87326e09a10) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Player.prefab using Guid(01ad0390a9fad6f42860d87326e09a10) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/9f724fa3e4089284c9e19ce83e45b396.asset.1.index for Assets/Player.prefab with Types
+Done importing asset: 'Assets/Player.prefab' (target hash: 'f990211acc7f1497179f512e78a2b785') in 0.006284 seconds
+  Import took 0.009029 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.309486 seconds.
+  path: Assets/Canvas.prefab
+  artifactKey: Guid(cc5be3536f313d147a12b7f9c24fcd69) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Canvas.prefab using Guid(cc5be3536f313d147a12b7f9c24fcd69) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/4b8426f6d1dd5de4a835d6558284820a.asset.1.index for Assets/Canvas.prefab with Types
+Done importing asset: 'Assets/Canvas.prefab' (target hash: 'cbee66e7d7853cf9ba912330f1f4a5a6') in 0.018182 seconds
+  Import took 0.024202 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.790774 seconds.
+  path: Assets/Obstacle (13).prefab
+  artifactKey: Guid(e40896a974b630a4581045e01b967b28) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (13).prefab using Guid(e40896a974b630a4581045e01b967b28) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/3eb35c93c8e680647ac6e8d63729bf71.asset.1.index for Assets/Obstacle (13).prefab with Types
+Done importing asset: 'Assets/Obstacle (13).prefab' (target hash: '120eef2d9291b46d9f18ab4ba3da7e3d') in 0.005832 seconds
+  Import took 0.008240 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.181810 seconds.
+  path: Assets/Obstacle (14).prefab
+  artifactKey: Guid(179441c765a8d29498a6d59d95fd731b) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (14).prefab using Guid(179441c765a8d29498a6d59d95fd731b) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/d7c7ff0f628a55d449853326f1a4d76e.asset.1.index for Assets/Obstacle (14).prefab with Types
+Done importing asset: 'Assets/Obstacle (14).prefab' (target hash: '6e04bb844e72cc8d90c17b94bfba833a') in 0.005986 seconds
+  Import took 0.008490 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.335079 seconds.
+  path: Assets/Obstacle (15).prefab
+  artifactKey: Guid(3a39f5d188b1ce64d8d161c7483f94ce) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (15).prefab using Guid(3a39f5d188b1ce64d8d161c7483f94ce) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/85509acf17406ee478bd1b3980d5fdd8.asset.1.index for Assets/Obstacle (15).prefab with Types
+Done importing asset: 'Assets/Obstacle (15).prefab' (target hash: '72e01a52bf7703668c9deb0c122960c3') in 0.006798 seconds
+  Import took 0.009315 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.214006 seconds.
+  path: Assets/Obstacle (16).prefab
+  artifactKey: Guid(e5c828eccfd9c9d4e9b6cdc91c0bcd88) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (16).prefab using Guid(e5c828eccfd9c9d4e9b6cdc91c0bcd88) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f3e073274b616c641a77923a32804e20.asset.1.index for Assets/Obstacle (16).prefab with Types
+Done importing asset: 'Assets/Obstacle (16).prefab' (target hash: 'bea46097a7f829fbc9bd21c22f35f562') in 0.006058 seconds
+  Import took 0.009007 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.326502 seconds.
+  path: Assets/Obstacle (17).prefab
+  artifactKey: Guid(020b9632c513fc845b963116d4ae0c1a) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (17).prefab using Guid(020b9632c513fc845b963116d4ae0c1a) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/2c7f6c64bbdc6fb438cb9c011ce70a42.asset.1.index for Assets/Obstacle (17).prefab with Types
+Done importing asset: 'Assets/Obstacle (17).prefab' (target hash: '772934b695fc153050adadd62ba8dc25') in 0.006728 seconds
+  Import took 0.009389 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.571151 seconds.
+  path: Assets/Obstacle (18).prefab
+  artifactKey: Guid(7103f6ded00a83043a2ff5e7c819a248) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (18).prefab using Guid(7103f6ded00a83043a2ff5e7c819a248) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/aa67ff12099858e44b6567ce8d83b359.asset.1.index for Assets/Obstacle (18).prefab with Types
+Done importing asset: 'Assets/Obstacle (18).prefab' (target hash: '663bce8c52873102ec0e58de3b311460') in 0.007472 seconds
+  Import took 0.010219 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.186689 seconds.
+  path: Assets/Obstacle.prefab
+  artifactKey: Guid(85b9270a722b3c244a0d223873a76590) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle.prefab using Guid(85b9270a722b3c244a0d223873a76590) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/e1a4e098fca8bde46bb0ec32ee7b1af1.asset.1.index for Assets/Obstacle.prefab with Types
+Done importing asset: 'Assets/Obstacle.prefab' (target hash: '987da5ed5539ecd8298f2450a9cd73bc') in 0.006426 seconds
+  Import took 0.009050 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.673484 seconds.
+  path: Assets/Obstacle (1).prefab
+  artifactKey: Guid(fea1475d8afaa9e4498e020d78beae34) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (1).prefab using Guid(fea1475d8afaa9e4498e020d78beae34) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/3300115cf03890c4fa6602edd4f19778.asset.1.index for Assets/Obstacle (1).prefab with Types
+Done importing asset: 'Assets/Obstacle (1).prefab' (target hash: 'b660321084f6a35e3f001db09ee47f91') in 0.007047 seconds
+  Import took 0.010108 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.626101 seconds.
+  path: Assets/Obstacle (2).prefab
+  artifactKey: Guid(a5c8eec626a9c8b488d5f2b450453fbe) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (2).prefab using Guid(a5c8eec626a9c8b488d5f2b450453fbe) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/55d59a06b69f084438a9de524e67d529.asset.1.index for Assets/Obstacle (2).prefab with Types
+Done importing asset: 'Assets/Obstacle (2).prefab' (target hash: '967a94d0a2b2bbfa256a6e920e2d390f') in 0.008464 seconds
+  Import took 0.011560 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.028411 seconds.
+  path: Assets/Obstacle (3).prefab
+  artifactKey: Guid(b29395380aeb46048aae58f8a8640ecb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (3).prefab using Guid(b29395380aeb46048aae58f8a8640ecb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/1a7dcceffd5497d43b40cc8e3f83f9f2.asset.1.index for Assets/Obstacle (3).prefab with Types
+Done importing asset: 'Assets/Obstacle (3).prefab' (target hash: '2a826a96e0d4c361fd093679087200dd') in 0.006784 seconds
+  Import took 0.009572 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.656367 seconds.
+  path: Assets/Obstacle (4).prefab
+  artifactKey: Guid(b4cfd1b66d163644bb68b5e6e7388211) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Obstacle (4).prefab using Guid(b4cfd1b66d163644bb68b5e6e7388211) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/6d6a586c8210fce4187f12073ab7a163.asset.1.index for Assets/Obstacle (4).prefab with Types
+Done importing asset: 'Assets/Obstacle (4).prefab' (target hash: '6bb61343e57d121750f51346e91896ee') in 0.005967 seconds
+  Import took 0.008268 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.400797 seconds.
+  path: Assets/Prefabs/Obstacle (5).prefab
+  artifactKey: Guid(2e7e206ba17483846a5cbb0c4024cd97) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (5).prefab using Guid(2e7e206ba17483846a5cbb0c4024cd97) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/2588abbdf1b94cd47bd249fa4b3714ae.asset.1.index for Assets/Prefabs/Obstacle (5).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (5).prefab' (target hash: '63132b9b294f15f3fe24e9af7602e225') in 0.008202 seconds
+  Import took 0.010918 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.124203 seconds.
+  path: Assets/Prefabs/Obstacle (6).prefab
+  artifactKey: Guid(427c8d80746fc814aa80701a28080f5e) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (6).prefab using Guid(427c8d80746fc814aa80701a28080f5e) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/e789d968b68f7b34f9e2fee5b2cf30ac.asset.1.index for Assets/Prefabs/Obstacle (6).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (6).prefab' (target hash: '7b1d633f9531d8903c05d750a569eff3') in 0.007260 seconds
+  Import took 0.011014 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.669710 seconds.
+  path: Assets/Prefabs/Obstacle (7).prefab
+  artifactKey: Guid(0d88b81aaae52d04d934cc0d99196d45) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (7).prefab using Guid(0d88b81aaae52d04d934cc0d99196d45) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/51f964499bad8e24e8dda2d14339881f.asset.1.index for Assets/Prefabs/Obstacle (7).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (7).prefab' (target hash: 'ceac6f294978fbbb29bc113d9dbc3eb0') in 0.006249 seconds
+  Import took 0.008880 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.363088 seconds.
+  path: Assets/Prefabs/Obstacle (8).prefab
+  artifactKey: Guid(a496ab6032865ab409cc630476d9b653) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (8).prefab using Guid(a496ab6032865ab409cc630476d9b653) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/d37866c50630e8648b6ee7c3d77e6780.asset.1.index for Assets/Prefabs/Obstacle (8).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (8).prefab' (target hash: '8af09c307c94633c6dbde28afc9e2c04') in 0.007604 seconds
+  Import took 0.010109 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.690732 seconds.
+  path: Assets/Prefabs/Obstacle (9).prefab
+  artifactKey: Guid(fa312ba5364e8114ebe3ef6602ae2ff9) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (9).prefab using Guid(fa312ba5364e8114ebe3ef6602ae2ff9) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/ddb1411095e23ac4b8e4c609ee16cbdf.asset.1.index for Assets/Prefabs/Obstacle (9).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (9).prefab' (target hash: '3149c4e2aa23bff089062c7532cc938e') in 0.007200 seconds
+  Import took 0.009985 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.187875 seconds.
+  path: Assets/Prefabs/Obstacle (10).prefab
+  artifactKey: Guid(035e71f453d72d64f9c955f0615da371) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (10).prefab using Guid(035e71f453d72d64f9c955f0615da371) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/5b2c2dae5caf8d34aaaf8426bce932f7.asset.1.index for Assets/Prefabs/Obstacle (10).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (10).prefab' (target hash: '02d97a0e2a1e0c88e5fe1cc935706cb1') in 0.006313 seconds
+  Import took 0.009031 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.528573 seconds.
+  path: Assets/Prefabs/Obstacle (11).prefab
+  artifactKey: Guid(c9edc01a08c117041a72ce352fa9e844) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Prefabs/Obstacle (11).prefab using Guid(c9edc01a08c117041a72ce352fa9e844) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/d824feefa60f8b147a26f9684a786198.asset.1.index for Assets/Prefabs/Obstacle (11).prefab with Types
+Done importing asset: 'Assets/Prefabs/Obstacle (11).prefab' (target hash: 'd9a202f5d2f4a32bfd31baebd4380598') in 0.006930 seconds
+  Import took 0.009270 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.212703 seconds.
+  path: Assets/Scenes/Level01.unity
+  artifactKey: Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level01.unity using Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/cfdf31df569b89e48ac340e35a9b3513.asset.1.index for Assets/Scenes/Level01.unity with Types
+Done importing asset: 'Assets/Scenes/Level01.unity' (target hash: '46ff9f1219ae537736c5aa603a1c2498') in 0.006049 seconds
+  Import took 0.008808 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.073858 seconds.
+  path: Assets/Scenes/Level03.unity
+  artifactKey: Guid(ef72d0cdc534c234488faea449acb018) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level03.unity using Guid(ef72d0cdc534c234488faea449acb018) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/1f93b78d8fcb9a140ac98883aecb9a14.asset.1.index for Assets/Scenes/Level03.unity with Types
+Done importing asset: 'Assets/Scenes/Level03.unity' (target hash: '3e8a9d0aa8ee2d0e2922cd1df9fb39d8') in 0.005767 seconds
+  Import took 0.008049 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.543498 seconds.
+  path: Assets/Scenes/Level01.unity
+  artifactKey: Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level01.unity using Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f39eb3161a3c8df4c829416196c30625.asset.1.index for Assets/Scenes/Level01.unity with Types
+Done importing asset: 'Assets/Scenes/Level01.unity' (target hash: '34ec1c9a960f860498db36c02a41d762') in 0.007936 seconds
+  Import took 0.010640 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.199542 seconds.
+  path: Assets/Scenes/Level02.unity
+  artifactKey: Guid(e5d2225114cc30943b7cc31cfc7d3dd3) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level02.unity using Guid(e5d2225114cc30943b7cc31cfc7d3dd3) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/804c5c0db94bbee45b0b1e14242a9587.asset.1.index for Assets/Scenes/Level02.unity with Types
+Done importing asset: 'Assets/Scenes/Level02.unity' (target hash: 'ef8908c816d427bc56b0d93891b38082') in 0.005375 seconds
+  Import took 0.007671 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.579473 seconds.
+  path: Assets/Scenes/Level01.unity
+  artifactKey: Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Scenes/Level01.unity using Guid(521432f7f40e31247b8a8db424881c30) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/a74d4f11618a2a34aa99d936c1e7d6f4.asset.1.index for Assets/Scenes/Level01.unity with Types
+Done importing asset: 'Assets/Scenes/Level01.unity' (target hash: '38a6f692beedf2f7c7080f374397454b') in 0.005732 seconds
+  Import took 0.008255 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.021423 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/a1d997bb8c2d80343b29556214e7480e.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: '792af3147887bc3f19d51f5a4df06dac') in 0.006825 seconds
+  Import took 0.009874 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.440099 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/291811a30cbaed046b9c5261e99e7906.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: 'ff863ccf28c6c0437f4bed51efac9eee') in 0.005872 seconds
+  Import took 0.008703 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.570472 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f92fd1aa233bcdd47b11907605b48fb0.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: 'b2d414d03f54dc99048d66e163cbb9ec') in 0.006548 seconds
+  Import took 0.009128 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.816011 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/93befc96355275642ab54d85f0b59550.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: '0b65f4a247441db5fbe25bb795d54d7f') in 0.007405 seconds
+  Import took 0.009949 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.458933 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f6996aeea7f9f7b48ab6e870be338268.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: 'f889c2334bec9b0ff47f0ac1f6dad67a') in 0.006529 seconds
+  Import took 0.008931 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.262605 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/189d5ab70a6333b4b8f41b28b7265aaf.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: 'ce4242f7030df4d308c76b834acde08a') in 0.005926 seconds
+  Import took 0.008922 seconds.
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.180999 seconds.
+  path: Assets/Credits.cs
+  artifactKey: Guid(09bdfdaf13ec56341b8e73ad7efa70cb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/Credits.cs using Guid(09bdfdaf13ec56341b8e73ad7efa70cb) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/1ff1c0ff5d3e82f4bb5017563fe992eb.asset.1.index for Assets/Credits.cs with Types
+Done importing asset: 'Assets/Credits.cs' (target hash: 'ea3f4d58860abe48b4619ba185cc68b7') in 0.008485 seconds
+  Import took 0.011114 seconds.
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Registered in 0.003268 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Registering precompiled user dll's ...
+Registered in 0.078384 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.972 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.9 MB.
+System memory in use after: 45.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1497.
+Total: 1.586000 ms (FindLiveObjects: 0.238500 ms CreateObjectMapping: 0.022200 ms MarkObjects: 1.241900 ms  DeleteObjects: 0.082900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Registered in 0.003019 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 15.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.022 seconds
+Registering precompiled user dll's ...
+Registered in 0.087147 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WebGL target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.8 MB.
+System memory in use after: 45.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1503.
+Total: 2.066900 ms (FindLiveObjects: 0.571000 ms CreateObjectMapping: 0.069300 ms MarkObjects: 1.360400 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.235472 seconds.
+  path: Assets/End.unity
+  artifactKey: Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+Start importing Assets/End.unity using Guid(fbfcb0436f7eb7147aa624d7107fa8bd) Importer(2089858483,3291a93977bff14cd8133371a99a42d2)
+
+Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/e9485edbd863f344baa6c548fd0f3198.asset.1.index for Assets/End.unity with Types
+Done importing asset: 'Assets/End.unity' (target hash: '912f22483b4dd9449ba2f4c03bf71dc3') in 0.065948 seconds
+  Import took 0.068432 seconds.
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
