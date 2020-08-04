@@ -10,7 +10,7 @@ public class LevelComplete : MonoBehaviour
   public void LoadNextLevel()
    {
         // Load next level by referring to build index of next scene
-//        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+//        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

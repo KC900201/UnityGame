@@ -140,10 +140,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: End
       objectReference: {fileID: 0}
+    - target: {fileID: 4191707730785578280, guid: 691cfcf370cbc6c49b67c53c06657243,
+        type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 185144448373731656}
     - target: {fileID: 4191707730785578283, guid: 691cfcf370cbc6c49b67c53c06657243,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.6
+      value: -0.2
       objectReference: {fileID: 0}
     - target: {fileID: 4191707730785578283, guid: 691cfcf370cbc6c49b67c53c06657243,
         type: 3}
@@ -153,7 +158,7 @@ PrefabInstance:
     - target: {fileID: 4191707730785578283, guid: 691cfcf370cbc6c49b67c53c06657243,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 67.3
+      value: 59.1
       objectReference: {fileID: 0}
     - target: {fileID: 4191707730785578283, guid: 691cfcf370cbc6c49b67c53c06657243,
         type: 3}
@@ -386,7 +391,7 @@ Transform:
   m_LocalScale: {x: 30, y: 1, z: 10000}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1260025737
 GameObject:
@@ -526,8 +531,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameManager
       objectReference: {fileID: 0}
+    - target: {fileID: 185144448613030490, guid: 72fba3513b77aa74aac6c329f9897f51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 72fba3513b77aa74aac6c329f9897f51, type: 3}
+--- !u!114 &185144448373731656 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 185144448613030489, guid: 72fba3513b77aa74aac6c329f9897f51,
+    type: 3}
+  m_PrefabInstance: {fileID: 185144448373731655}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa60b2efa5ea67a44ad7ce5690ef9c67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2927307140246974585
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -652,7 +674,7 @@ PrefabInstance:
     - target: {fileID: 3453127158789688152, guid: cc5be3536f313d147a12b7f9c24fcd69,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3453127158789688152, guid: cc5be3536f313d147a12b7f9c24fcd69,
         type: 3}
