@@ -2057,6 +2057,11 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1150611284}
+    - target: {fileID: 7405092332027584067, guid: 164f5f30496843446912a98eb49d8cf4,
+        type: 3}
+      propertyPath: offset.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7405092332027584071, guid: 164f5f30496843446912a98eb49d8cf4,
         type: 3}
       propertyPath: m_Name
