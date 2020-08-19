@@ -1,6 +1,6 @@
 ﻿/*This script is to enable hit collision during player movement*/
-//using System.Collections;
-//using System.Collections.Generic;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class HitCollision : MonoBehaviour
@@ -14,6 +14,10 @@ public class HitCollision : MonoBehaviour
 //            Debug.Log("Hit " + collisionInfo.collider.name);
             movement.enabled = false; // disable our player movement script if object is hit
             FindObjectOfType<GameManager>().EndGame();
+
+            // Add in audio effect when hitting obstacle
+            FindObjectOfType<AudioManager>().Play("Laser_Cannon");
+
         }
     }
 
