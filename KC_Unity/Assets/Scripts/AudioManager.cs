@@ -11,15 +11,15 @@ using System;
 public class AudioManager : MonoBehaviour
 {
     public Sound[] sounds;
-    public static AudioManager instance;
+    public static AudioManager instance; // static variable
 
     // Awake() method is called before Start()
     void Awake()
     {
 
         if (instance == null)
-            instance = this;
-        else
+            instance = this; // assign existing instance into this
+        else // if we already have an instance, destroy it
         {
             Destroy(gameObject);
             return;
@@ -51,7 +51,7 @@ public class AudioManager : MonoBehaviour
 
         if (s == null)
         {
-            Debug.Log("Sound not found");
+            Debug.Log("Sound: " + name + "not found!");
             return;
 
         }

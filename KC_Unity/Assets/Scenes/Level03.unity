@@ -1312,6 +1312,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pickupEffect: {fileID: 1121192042590650, guid: e1b08032bec16ba4eb1ae23cbd572664,
     type: 3}
+  multiplier: 5.4
+  duration: 2
 --- !u!1001 &1565179856
 PrefabInstance:
   m_ObjectHideFlags: 0
