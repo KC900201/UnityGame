@@ -13,23 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-09-03T13:34:23.341+09:00
-  initializedAtString: 2020-09-03T13:34:22.237+09:00
-  localBranches:
-  - name: create_high_score_08112020
-    tracking: origin/create_high_score_08112020
-  - name: master
-    tracking: origin/master
-  - name: tilemap_08302020
-    tracking: origin/tilemap_08302020
+  lastUpdatedAtString: 2020-09-07T11:35:40.954+09:00
+  initializedAtString: 2020-09-07T11:35:39.998+09:00
+  localBranches: []
   remoteBranches:
-  - name: origin/create_high_score_08112020
-    tracking: '[None]'
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/master
-    tracking: '[None]'
-  - name: origin/tilemap_08302020
     tracking: '[None]'
   remotes:
   - name: origin
@@ -40,53 +28,17 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - create_high_score_08112020
-    - master
-    - tilemap_08302020
-    values:
-    - name: create_high_score_08112020
-      remote:
-        name: origin
-        url: https://github.com/KC900201/UnityGame.git
-      trackingBranch: create_high_score_08112020
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/KC900201/UnityGame.git
-      trackingBranch: master
-    - name: tilemap_08302020
-      remote:
-        name: origin
-        url: https://github.com/KC900201/UnityGame.git
-      trackingBranch: tilemap_08302020
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - create_high_score_08112020
       - HEAD
-      - master
-      - tilemap_08302020
     subKeyValues:
     - Values:
-      - name: create_high_score_08112020
-        remote:
-          name: origin
-          url: https://github.com/KC900201/UnityGame.git
-        trackingBranch: 
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/KC900201/UnityGame.git
-        trackingBranch: 
-      - name: master
-        remote:
-          name: origin
-          url: https://github.com/KC900201/UnityGame.git
-        trackingBranch: 
-      - name: tilemap_08302020
         remote:
           name: origin
           url: https://github.com/KC900201/UnityGame.git

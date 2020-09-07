@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-09-03T13:34:21.387+09:00
-  initializedAtString: 2020-09-03T13:34:21.387+09:00
+  lastUpdatedAtString: 2020-09-07T11:35:40.205+09:00
+  initializedAtString: 2020-09-07T11:24:46.408+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/KC900201/UnityGame.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: tilemap_08302020
-    tracking: origin/tilemap_08302020
+    name: lighting_effect_09032020
+    tracking: 
   currentConfigBranch:
-    name: tilemap_08302020
+    name: lighting_effect_09032020
     remote:
-      name: origin
-      url: https://github.com/KC900201/UnityGame.git
-    trackingBranch: tilemap_08302020
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/KC900201/UnityGame.git
