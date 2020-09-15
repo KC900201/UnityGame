@@ -4,11 +4,19 @@
  */
 using UnityEngine;
 using UnityEngine.AI; // library for controlling agents
+using UnityStandardAssets.Characters.ThirdPerson; //library for character animation
 
 public class PlayerController : MonoBehaviour
 {
     public Camera cam;
     public NavMeshAgent agent;
+    public ThirdPersonCharacter character;
+
+    // Start function
+    void Start()
+    {
+        agent.updateRotation = false;
+    }
 
     // Update is called once per frame
     void Update()
@@ -24,6 +32,15 @@ public class PlayerController : MonoBehaviour
                 agent.SetDestination(hit.point);
             }
         }
-        
+
+        // control character movement
+        if (agent.remainingDistance > agent.stoppingDistance)
+        {
+            character.Move(agent.desiredVelocity, false, false); // velocity, crouch, jump
+        } else
+        {
+            character.Move(Vector3.zero, false, false);
+        }
+
     }
 }
