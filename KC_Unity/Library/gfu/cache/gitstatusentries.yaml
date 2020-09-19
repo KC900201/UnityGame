@@ -1,0 +1,548 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-09-07T12:05:13.228+09:00
+  initializedAtString: 2020-09-07T11:24:47.967+09:00
+  entries:
+  - path: KC_Unity\Assets\Scenes\Camera Shake.unity
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Assets\Scenes\Camera
+      Shake.unity
+    projectPath: Assets\Scenes\Camera Shake.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Assets\Scenes\Camera Shake.unity.meta
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Assets\Scenes\Camera
+      Shake.unity.meta
+    projectPath: Assets\Scenes\Camera Shake.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Assets\Scripts\CameraShake.cs
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Assets\Scripts\CameraShake.cs
+    projectPath: Assets\Scripts\CameraShake.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Assets\Scripts\CameraShake.cs.meta
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Assets\Scripts\CameraShake.cs.meta
+    projectPath: Assets\Scripts\CameraShake.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Assets\TriggerEffect.cs
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Assets\TriggerEffect.cs
+    projectPath: Assets\TriggerEffect.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Assets\TriggerEffect.cs.meta
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Assets\TriggerEffect.cs.meta
+    projectPath: Assets\TriggerEffect.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ArtifactDB
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\Artifacts\0e\0ed908288999010403110707e5f1170e
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\0e\0ed908288999010403110707e5f1170e
+    projectPath: Library\Artifacts\0e\0ed908288999010403110707e5f1170e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\18\1847354b25e07cd07369ee05f59919b4
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\18\1847354b25e07cd07369ee05f59919b4
+    projectPath: Library\Artifacts\18\1847354b25e07cd07369ee05f59919b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\19\19b236c93748db8a02eb9e28a51f9039
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\19\19b236c93748db8a02eb9e28a51f9039
+    projectPath: Library\Artifacts\19\19b236c93748db8a02eb9e28a51f9039
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\25\25f8704134296f5a4aab93b707e7cf04
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\25\25f8704134296f5a4aab93b707e7cf04
+    projectPath: Library\Artifacts\25\25f8704134296f5a4aab93b707e7cf04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\2e\2edaed71b3c060891d21663233fdff2a
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\2e\2edaed71b3c060891d21663233fdff2a
+    projectPath: Library\Artifacts\2e\2edaed71b3c060891d21663233fdff2a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\31\3134c9b78bdb58e19186bea43ba70109
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\31\3134c9b78bdb58e19186bea43ba70109
+    projectPath: Library\Artifacts\31\3134c9b78bdb58e19186bea43ba70109
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\38\388d9228fba934dbea3f16f78d764dd1
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\38\388d9228fba934dbea3f16f78d764dd1
+    projectPath: Library\Artifacts\38\388d9228fba934dbea3f16f78d764dd1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\44\441d0fb54f339a43f4004714e21977b3
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\44\441d0fb54f339a43f4004714e21977b3
+    projectPath: Library\Artifacts\44\441d0fb54f339a43f4004714e21977b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\5a\5a1f0fa899f17e8c6b3a97763320201f
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\5a\5a1f0fa899f17e8c6b3a97763320201f
+    projectPath: Library\Artifacts\5a\5a1f0fa899f17e8c6b3a97763320201f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\5c\5ce312c9b7e97d5ccd4be18740a830df
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\5c\5ce312c9b7e97d5ccd4be18740a830df
+    projectPath: Library\Artifacts\5c\5ce312c9b7e97d5ccd4be18740a830df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\5f\5f683d0d2710a255b2f4d10ee3b07f96
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\5f\5f683d0d2710a255b2f4d10ee3b07f96
+    projectPath: Library\Artifacts\5f\5f683d0d2710a255b2f4d10ee3b07f96
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\6f\6f32640aa62dbf2ec30da16dee6f5d0d
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\6f\6f32640aa62dbf2ec30da16dee6f5d0d
+    projectPath: Library\Artifacts\6f\6f32640aa62dbf2ec30da16dee6f5d0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\77\778e96388d01fab5b2502cdd26ace499
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\77\778e96388d01fab5b2502cdd26ace499
+    projectPath: Library\Artifacts\77\778e96388d01fab5b2502cdd26ace499
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\86\86a5c763fa8a6235d3a39188c108f7c0
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\86\86a5c763fa8a6235d3a39188c108f7c0
+    projectPath: Library\Artifacts\86\86a5c763fa8a6235d3a39188c108f7c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\9a\9a7c667531351dd98cebb3f4cf7bc901
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\9a\9a7c667531351dd98cebb3f4cf7bc901
+    projectPath: Library\Artifacts\9a\9a7c667531351dd98cebb3f4cf7bc901
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\a0\a0164477d0b5cb1b75607a29627bc62b
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\a0\a0164477d0b5cb1b75607a29627bc62b
+    projectPath: Library\Artifacts\a0\a0164477d0b5cb1b75607a29627bc62b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\d2\d231885a89e2d845cdc10228b0c85963
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\d2\d231885a89e2d845cdc10228b0c85963
+    projectPath: Library\Artifacts\d2\d231885a89e2d845cdc10228b0c85963
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\d6\d643c5492ab603289d329177b87d18fe
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\d6\d643c5492ab603289d329177b87d18fe
+    projectPath: Library\Artifacts\d6\d643c5492ab603289d329177b87d18fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\d7\d72577bc0c74f88b8f354f62304d8ae1
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\d7\d72577bc0c74f88b8f354f62304d8ae1
+    projectPath: Library\Artifacts\d7\d72577bc0c74f88b8f354f62304d8ae1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\Artifacts\d7\d77fd7190d43f59a866b1abe47e8c96b
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\d7\d77fd7190d43f59a866b1abe47e8c96b
+    projectPath: Library\Artifacts\d7\d77fd7190d43f59a866b1abe47e8c96b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: KC_Unity\Library\Artifacts\ea\ea7503b9b1cfbf7840964d8b3ed14090
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\Artifacts\ea\ea7503b9b1cfbf7840964d8b3ed14090
+    projectPath: Library\Artifacts\ea\ea7503b9b1cfbf7840964d8b3ed14090
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\EditorInstance.json
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\QuickSearch\transactions.db
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\QuickSearch\transactions.db
+    projectPath: Library\QuickSearch\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\ShaderCache\0\0caf5bfbf0d24149c59bada064214b5e.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\0\0caf5bfbf0d24149c59bada064214b5e.bin
+    projectPath: Library\ShaderCache\0\0caf5bfbf0d24149c59bada064214b5e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\1\1c36c7927bc68901f25d068c6e823a14.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\1\1c36c7927bc68901f25d068c6e823a14.bin
+    projectPath: Library\ShaderCache\1\1c36c7927bc68901f25d068c6e823a14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\2\24d224482ae308c5c321e132dd77a8cc.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\2\24d224482ae308c5c321e132dd77a8cc.bin
+    projectPath: Library\ShaderCache\2\24d224482ae308c5c321e132dd77a8cc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\4\47267d0bc43a8e28647954b7e6ea6edd.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\4\47267d0bc43a8e28647954b7e6ea6edd.bin
+    projectPath: Library\ShaderCache\4\47267d0bc43a8e28647954b7e6ea6edd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\4\4a6e9f516b8662ebaabf5b00c174bb92.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\4\4a6e9f516b8662ebaabf5b00c174bb92.bin
+    projectPath: Library\ShaderCache\4\4a6e9f516b8662ebaabf5b00c174bb92.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\5\526190d6bdfb5a6160b929057e550a36.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\5\526190d6bdfb5a6160b929057e550a36.bin
+    projectPath: Library\ShaderCache\5\526190d6bdfb5a6160b929057e550a36.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\6\68a8068367e6fbbaddff7d6fe7897dff.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\6\68a8068367e6fbbaddff7d6fe7897dff.bin
+    projectPath: Library\ShaderCache\6\68a8068367e6fbbaddff7d6fe7897dff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\6\69d8976dec5d97ca1a146589bcf2cb8c.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\6\69d8976dec5d97ca1a146589bcf2cb8c.bin
+    projectPath: Library\ShaderCache\6\69d8976dec5d97ca1a146589bcf2cb8c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\6\69edc3fe061f6f600e362e2a1d2327ad.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\6\69edc3fe061f6f600e362e2a1d2327ad.bin
+    projectPath: Library\ShaderCache\6\69edc3fe061f6f600e362e2a1d2327ad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\7\78d42a8aca83fc269545de1840509ac5.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\7\78d42a8aca83fc269545de1840509ac5.bin
+    projectPath: Library\ShaderCache\7\78d42a8aca83fc269545de1840509ac5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\7\7fb2f8175f126a1b19714b94fe865739.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\7\7fb2f8175f126a1b19714b94fe865739.bin
+    projectPath: Library\ShaderCache\7\7fb2f8175f126a1b19714b94fe865739.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\9\9e37ff36a7b694d2bcf3ac709c9fc815.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\9\9e37ff36a7b694d2bcf3ac709c9fc815.bin
+    projectPath: Library\ShaderCache\9\9e37ff36a7b694d2bcf3ac709c9fc815.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\a\afcec32b757df6953249dc9ce6b5b7df.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\a\afcec32b757df6953249dc9ce6b5b7df.bin
+    projectPath: Library\ShaderCache\a\afcec32b757df6953249dc9ce6b5b7df.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\b\b7790d5125b5e135f9eefcab6ad11871.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\b\b7790d5125b5e135f9eefcab6ad11871.bin
+    projectPath: Library\ShaderCache\b\b7790d5125b5e135f9eefcab6ad11871.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\b\baeefd27dbbd13c20951ce686f30e469.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\b\baeefd27dbbd13c20951ce686f30e469.bin
+    projectPath: Library\ShaderCache\b\baeefd27dbbd13c20951ce686f30e469.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\c\c129da6c0731cbdace332b49dae10c55.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\c\c129da6c0731cbdace332b49dae10c55.bin
+    projectPath: Library\ShaderCache\c\c129da6c0731cbdace332b49dae10c55.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\d\d0d4d563adedce27ccb3a56e4d04bb6f.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\d\d0d4d563adedce27ccb3a56e4d04bb6f.bin
+    projectPath: Library\ShaderCache\d\d0d4d563adedce27ccb3a56e4d04bb6f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\d\d715d9fea907225e105b838052852c83.bin
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\d\d715d9fea907225e105b838052852c83.bin
+    projectPath: Library\ShaderCache\d\d715d9fea907225e105b838052852c83.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\SourceAssetDB
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\StateCache\Hierarchy\255fe2-a5c8eec626a9c8b488.json
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\StateCache\Hierarchy\255fe2-a5c8eec626a9c8b488.json
+    projectPath: Library\StateCache\Hierarchy\255fe2-a5c8eec626a9c8b488.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\StateCache\Hierarchy\255fe2-mainStage.json
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\StateCache\Hierarchy\255fe2-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\255fe2-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Library\StateCache\SceneView\607e83-a5c8eec626a9c8b488.json
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\StateCache\SceneView\607e83-a5c8eec626a9c8b488.json
+    projectPath: Library\StateCache\SceneView\607e83-a5c8eec626a9c8b488.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Library\StateCache\SceneView\607e83-mainStage.json
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Library\StateCache\SceneView\607e83-mainStage.json
+    projectPath: Library\StateCache\SceneView\607e83-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: KC_Unity\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityLockfile
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-02517534e5bb20c4aba52a7d531c4ee3
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-02517534e5bb20c4aba52a7d531c4ee3
+    projectPath: Temp\UnityTempFile-02517534e5bb20c4aba52a7d531c4ee3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-0348158a8ca692f49843cc25d7db143b
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-0348158a8ca692f49843cc25d7db143b
+    projectPath: Temp\UnityTempFile-0348158a8ca692f49843cc25d7db143b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-0db7cd6b72cae9e4eb9e22c909380ec8
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-0db7cd6b72cae9e4eb9e22c909380ec8
+    projectPath: Temp\UnityTempFile-0db7cd6b72cae9e4eb9e22c909380ec8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-123ea1fe3be4c344580b28b2f0626ac2
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-123ea1fe3be4c344580b28b2f0626ac2
+    projectPath: Temp\UnityTempFile-123ea1fe3be4c344580b28b2f0626ac2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-14cd7fd75ec8c5647b3fb43bd7b5287e
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-14cd7fd75ec8c5647b3fb43bd7b5287e
+    projectPath: Temp\UnityTempFile-14cd7fd75ec8c5647b3fb43bd7b5287e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-23990fb5bdae21247b5bfedc10d2cf71
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-23990fb5bdae21247b5bfedc10d2cf71
+    projectPath: Temp\UnityTempFile-23990fb5bdae21247b5bfedc10d2cf71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-2e9720818f8ee6041b48113c374e3c96
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-2e9720818f8ee6041b48113c374e3c96
+    projectPath: Temp\UnityTempFile-2e9720818f8ee6041b48113c374e3c96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-3b5391a4dc612084ab030ee9820c3ec2
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-3b5391a4dc612084ab030ee9820c3ec2
+    projectPath: Temp\UnityTempFile-3b5391a4dc612084ab030ee9820c3ec2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-57c333a86713dda4496f36496330250b
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-57c333a86713dda4496f36496330250b
+    projectPath: Temp\UnityTempFile-57c333a86713dda4496f36496330250b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-5ef7599942792fa43a9ba9ac8aa76f0e
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-5ef7599942792fa43a9ba9ac8aa76f0e
+    projectPath: Temp\UnityTempFile-5ef7599942792fa43a9ba9ac8aa76f0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-6611947026eb98842be57e3e81ca0e86
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-6611947026eb98842be57e3e81ca0e86
+    projectPath: Temp\UnityTempFile-6611947026eb98842be57e3e81ca0e86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-7721051b4c03a294bb299b56956851b3
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-7721051b4c03a294bb299b56956851b3
+    projectPath: Temp\UnityTempFile-7721051b4c03a294bb299b56956851b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: KC_Unity\Temp\UnityTempFile-f91dcd805420d6945826f486ed080e8c
+    fullPath: C:\Users\user\Documents\Projects\UnityGame\KC_Unity\Temp\UnityTempFile-f91dcd805420d6945826f486ed080e8c
+    projectPath: Temp\UnityTempFile-f91dcd805420d6945826f486ed080e8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
