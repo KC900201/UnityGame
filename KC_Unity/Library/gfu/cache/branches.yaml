@@ -13,11 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-09-07T11:35:40.954+09:00
-  initializedAtString: 2020-09-07T11:35:39.998+09:00
-  localBranches: []
+  lastUpdatedAtString: 2020-09-30T15:57:48.779+09:00
+  initializedAtString: 2020-09-30T15:57:44.699+09:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  - name: tutorial/unity_3d_game_kit_09242020
+    tracking: origin/tutorial/unity_3d_game_kit_09242020
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/tutorial/unity_3d_game_kit_09242020
     tracking: '[None]'
   remotes:
   - name: origin
@@ -28,17 +34,35 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    - tutorial/unity_3d_game_kit_09242020
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/KC900201/UnityGame.git
+      trackingBranch: master
+    - name: tutorial/unity_3d_game_kit_09242020
+      remote:
+        name: origin
+        url: https://github.com/KC900201/UnityGame.git
+      trackingBranch: tutorial/unity_3d_game_kit_09242020
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
+      - tutorial/unity_3d_game_kit_09242020
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/KC900201/UnityGame.git
+        trackingBranch: 
+      - name: tutorial/unity_3d_game_kit_09242020
         remote:
           name: origin
           url: https://github.com/KC900201/UnityGame.git
